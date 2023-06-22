@@ -1,0 +1,10 @@
+.receta__descripcion{
+    font-size: 1.1875rem;
+    line-height: 1.5;
+    text-align: justify;
+}
+@media screen and (min-width:0) {
+    .receta__descripcion{
+        text-align: center;
+    }
+}

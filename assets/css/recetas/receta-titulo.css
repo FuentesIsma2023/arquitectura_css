@@ -1,0 +1,8 @@
+.receta__titulo{
+    font-size: 1.4375rem;
+}
+@media screen and (min-width:0) {
+    .receta__titulo{
+        text-align: center;
+    }
+}

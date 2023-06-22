@@ -1,0 +1,12 @@
+.rodapie__lista{
+    display: flex;
+    list-style: none;
+}
+@media screen and (max-width:475px) {
+    .rodapie__lista{
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        justify-content: center;
+    }
+}
